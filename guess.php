@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Guessing Game for Largo, Dominic</title>
+<title>Guessing Game for Alumbro, Mc Stephen</title>
 </head>
 <body>
 <h1>Welcome to my guessing game</h1>
